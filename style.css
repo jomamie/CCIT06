@@ -1,0 +1,32 @@
+#banner{
+    height:90vh;
+    background-image: url(sunrise.avif);
+    background-size: cover;
+}
+
+.btn{
+    padding:15px 30px;
+    font-weight: 900;
+    border-radius:60px;
+    font-size:18px;
+    transform: all 0.45 ease;
+}
+
+.btn-brand{
+    background-color: green;
+    color: #FFF;
+    border: 2px solid #fff;
+}
+.btn-brand:hover{
+    background-color: transparent;
+    color: #FFF;
+    border: 2px solid #FFF;
+}
+section{
+    padding: 100px 0;
+}
+#about h2{
+    font-size: 50px;
+    font-weight: 900;
+    color: blue;
+}
